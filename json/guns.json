@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Skibidi 1 v 100",
+    "directory": "skibiditoilet",
+    "image": "logo.png"
+  },
+  {
+    "name": "Skibidi Toilet Attack",
+    "directory": "skibiditoiletattack",
+    "image": "logo.png"
+  },
+      {
+    "name": "Gunzer.io",
+    "directory": "gunzer",
+    "image": "gunzer.jpg"
+  },
+      {
+    "name": "ShooterZ",
+    "directory": "shooterz",
+    "image": "shooterz.jpg"
+  },
+  {
+    "name": "Gun Mayhem",
+    "directory": "gunmayhem",
+    "image": "icon.png"
+  },
+  {
+    "name": "Gun Mayhem 2",
+    "directory": "gunmayhem2",
+    "image": "icon.png"
+  },
+  {
+    "name": "Gun Mayhem Redux",
+    "directory": "gunmayhemredux",
+    "image": "icon.png"
+  },
+  {
+    "name": "Rooftop Snipers",
+    "directory": "rooftopsnipers",
+    "image": "logo.png"
+  },
+  {
+    "name": "Rooftop Snipers 2",
+    "directory": "rooftopsnipers2",
+    "image": "icon.png"
+  },
+  {
+    "name": "Time Shooter",
+    "directory": "timeshooter1",
+    "image": "logo.png"
+  },
+  {
+    "name": "Time Shooter 2",
+    "directory": "timeshooter2",
+    "image": "ts2.jpg"
+  },
+  {
+    "name": "Time Shooter 3",
+    "directory": "timeshooter3",
+    "image": "logo.png"
+  },
+  {
+    "name": "Funny Shooter",
+    "directory": "funnyshooter",
+    "image": "icon.jpeg"
+  },
+  {
+    "name": "Funny Shooter 2",
+    "directory": "funnyshooter2",
+    "image": "894abba63a6b23fed823f404831f444f.jpeg"
+  },
+  {
+    "name": "Totally Accurate Battle Simulator",
+    "directory": "tabs",
+    "image": "unnamed.png"
+  },
+      {
+    "name": "Splatoon | Scratch",
+    "directory": "splatoon",
+    "image": "splat.jpg",
+  },
+  {
+    "name": "Venge.io",
+    "directory": "venge",
+    "image": "venge.jpeg"
+  },
+      {
+    "name": "POOM",
+    "directory": "poom",
+    "image": "cover.svg",
+  },
+  {
+    "name": "DOOM",
+    "directory": "doom",
+    "image": "cover.svg",
+  },
+  {
+    "name": "Bubble Shooter",
+    "directory": "bubbleshooter",
+    "image": "cover.svg",
+  }
+]

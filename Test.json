@@ -1,0 +1,42 @@
+[    
+      {
+    "name": "Whitty | Fnf Mod",
+    "directory": "whitty",
+    "image": "whitty.jpg"
+  },
+      {
+    "name": "Tricky | Fnf Mod",
+    "directory": "Tricky",
+    "image": "tricky.jpg"
+  },
+      {
+    "name": "Sarvente | Fnf Mod",
+    "directory": "sarvente",
+    "image": "sarvente.jpg"
+  },
+{
+       "name": "Tabi | EX Fnf Mod",
+    "directory": "Tabi",
+    "image": "Tabi.jpg"
+  },
+{
+       "name": "Garcello | Fnf Mod",
+    "directory": "Garcello",
+    "image": "garcello.jpg"
+  },
+{
+       "name": "Kapi | Fnf Mod",
+    "directory": "Kapi",
+    "image": "kapi.jpg"
+  },
+      {
+       "name": "Impostor | Fnf Mod",
+    "directory": "impostor SUS",
+    "image": "SUS.jpg"
+  },
+      {
+       "name": "Monika | Fnf Mod",
+    "directory": "monika",
+    "image": "monika.jpeg"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "name": "A Dark Room",
+    "directory": "adarkroom",
+    "image": "icon.png"
+  },
+  {
+    "name": "Metroid: Zero Mission",
+    "directory": "metroidzeromission",
+    "image": "zero.jpeg"
+  },
+  {
+    "name": "Guilty Gear X",
+    "directory": "guiltygear",
+    "image": "ggx.jpg"
+  },
+  {
+    "name": "Fancy Pants Adventures",
+    "directory": "fancypantsadventures",
+    "image": "fpa.webp"
+  },
+  {
+    "name": "Baldi's Basics",
+    "directory": "baldis-basics",
+    "image": "splash.png"
+  },
+  {
+    "name": "Wordle",
+    "directory": "wordle",
+    "image": "icon.png"
+  },
+  {
+    "name": "Offline Paradise",
+    "directory": "offlineparadise",
+    "image": "icon.png"
+  },
+  {
+    "name": "2048",
+    "directory": "2048",
+    "image": "icon.png"
+  },
+  {
+    "name": "Super Meat Boy",
+    "directory": "supermeatboy",
+    "image": "icon.png"
+  },
+  {
+    "name": "Run 3",
+    "directory": "run3",
+    "image": "icon.jpeg"
+  },
+  {
+    "name": "Dragon Ball Devolution",
+    "directory": "dragonballdevolution",
+    "image": "images.jpeg"
+  },
+  {
+    "name": "Run",
+    "directory": "run",
+    "image": "icon.jpeg"
+  },
+  {
+    "name": "Sandtrix",
+    "directory": "sandtrix",
+    "image": "assets/sprites/appicon.png"
+  },
+  {
+    "name": "Sand Game",
+    "directory": "sand",
+    "image": "icon.png"
+  },
+  {
+    "name": "Townscaper",
+    "directory": "townscaper",
+    "image": "icon.png"
+  },
+  {
+    "name": "Bad Ice Cream",
+    "directory": "badicecream",
+    "image": "bad-ice-cream.png"
+  },
+  {
+    "name": "Bad Ice Cream 2",
+    "directory": "badicecream2",
+    "image": "bad-ice-cream-2.png"
+  },
+  {
+    "name": "Bad Ice Cream 3",
+    "directory": "badicecream3",
+    "image": "bad-ice-cream-3.png"
+  },
+  {
+    "name": "Bad Piggies",
+    "directory": "badpiggies",
+    "image": "badpiggies.png"
+  },
+  {
+    "name": "Bad Time Simulator",
+    "directory": "badtimesimulator",
+    "image": "icon-114.png"
+  },
+      {
+    "name": "Spank the Monkey",
+    "image": "cover.svg",
+    "directory": "spankthemonkey",
+    "recommended": "1"
+  },
+  {
+    "name": "Cubefield",
+    "directory": "cubefield",
+    "image": "assets/unnamed.png"
+  },
+  {
+    "name": "Ballistic Chickens",
+    "directory": "BallisticChickens",
+    "image": "ballistic.png"
+  },
+  {
+    "name": "Venge.io",
+    "directory": "venge",
+    "image": "venge.jpeg"
+  },
+  {
+    "name": "Dante",
+    "directory": "dante",
+    "image": "icon.png"
+  }
+]

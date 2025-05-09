@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Pokemon | FireRed",
+    "directory": "pokemon/firered",
+    "image": "cover.png"
+  },
+  {
+    "name": "Pokemon | LeafGreen",
+    "directory": "pokemon/leafgreen",
+    "image": "cover.png"
+  },
+  {
+    "name": "Pokemon | Gold",
+    "directory": "pokemon/gold",
+    "image": "cover.png"
+  },
+  {
+    "name": "Pokemon | Silver",
+    "directory": "pokemon/silver",
+    "image": "cover.png"
+  },
+  {
+    "name": "Pokemon | Ruby",
+    "directory": "pokemon/ruby",
+    "image": "cover.png"
+  },
+  {
+    "name": "Pokemon | Sapphire",
+    "directory": "pokemon/sapphire",
+    "image": "cover.png"
+  },
+    {
+    "name": "Pokemon | Crystal",
+    "directory": "pokemon/crystal",
+    "image": "cover.png"
+  },
+  {
+    "name": "Pokemon | Emerald",
+    "directory": "pokemon/emerald",
+    "image": "cover.png"
+  },
+  {
+    "name": "Pokemon | Red",
+    "directory": "pokemon/red",
+    "image": "cover.png"
+  },
+    {
+    "name": "Pokemon | Blue",
+    "directory": "pokemon/blue",
+    "image": "cover.png"
+  },
+    {
+    "name": "Pokemon | Yellow",
+    "directory": "pokemon/yellow",
+    "image": "cover.png"
+  }
+]

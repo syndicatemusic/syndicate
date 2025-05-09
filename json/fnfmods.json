@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Friday Night Funkin",
+    "directory": "fridaynightfunkin",
+    "image": "fnf-icon.jpg",
+    "recommended": "1"
+  },
+      {
+    "name": "Whitty Fnf Mod",
+    "directory": "whitty",
+    "image": "whitty.jpg"
+  },
+      {
+    "name": "Hex Fnf Mod",
+    "directory": "hex",
+    "image": "hex.jpg"
+  },
+      {
+    "name": "Tricky Fnf Mod",
+    "directory": "Tricky",
+    "image": "tricky.jpg"
+  },
+      {
+    "name": "Sarvente Fnf Mod",
+    "directory": "sarvente",
+    "image": "sarvente.jpg"
+  },
+      {
+    "name": "Miku Fnf Mod",
+    "directory": "miku",
+    "image": "miku.jpg"
+  },
+      {
+    "name": "Sky Fnf Mod",
+    "directory": "sky",
+    "image": "sky.jpg"
+  }
+]

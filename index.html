@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html class="sl-theme-dark" lang="en">
+  <head>
+    <!-- initialize theme vars
+    https://coolors.co/10002b-240046-3c096c-5a189a-7b2cbf-9d4edd-c77dff-e0aaff -->
+
+    <!-- initialize externals -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/cookie.min.js "></script>
+    
+     <link rel="stylesheet" href="themebgs/dark.css" />
+     <script type="module" src="js/shoelace-autoloader.js"></script>
+  
+
+    <!-- initialize my stuff -->
+    <script src="/js/all.js"></script>
+    <script src="/js/main.js"></script>
+<script src="/js/themes.js"></script>
+    <script src="/js/randomquote.js"></script>
+    <link rel="stylesheet" href="/themes.css" />
+    <link rel="stylesheet" href="/style.css" />
+        <!--thanks to @WilardzySenpai-->
+    <link rel="stylesheet" href="loading/index.css" />
+
+
+	  
+    <script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
+      new Crate({
+          server: '1273329263923302430', // server
+          channel: '1359966078939173100' // #welcome
+      })
+    </script>
+
+
+    <!-- seo + other things -->
+    <title>Slackerish</title>
+    <link rel="icon" href="favicon/Favicon_Tab_logo_slackerish_github_io.PNG" />
+  </head>
+    
+    <!--LOADING SCREEN BY @WilardzySenpai 03- -->
+    
+        <div class="preloader">
+        <div class="counter">0</div>
+    </div>
+    <section>
+    <!-- Loading Script -->
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+  <script type="text/javascript">
+	  function counter(){
+		  var count = setInterval(function(){
+			  var c = parseInt($('.counter').text());
+			  $('.counter').text((++c).toString());
+			  if (c == 100){
+				  clearInterval(count);
+				  $('.counter').addClass('hide')
+				  $('.preloader').addClass('active')
+			  }
+        // 1-100, 1 superfast countdown 50 mild countdown and so on, the higher number the slower.
+		  },25)
+	  }
+	  counter()
+</script>
+
+	    
+  <alerts>
+    <sl-dialog label="Welcome to slackerish!" class="dialog-width" style="--width: 60vw;display:none;">
+      You will be able to play over 400 high quality games, and we have many tools to make your experience better.
+      <br>
+      Wanting to transfer your data from another website? Try the transfer utility in the footer!
+      <br>
+      Want to support the development of Slackrr? Join the <a href="https://discord.gg/7jyufnwJNf">Discord</a> and support sky on <a href="https://patreon.com/selenitecc">Patreon</a>!
+      <br>
+      Learn more about Slackrr at the about page in the header!
+      <br>
+      Try out the Minified bookmarklet in the bookmarklets page!
+      <br>
+      Have a great day!
+      <sl-button slot="footer" variant="neutral">Close</sl-button>
+    </sl-dialog>
+  </alerts>
+  <body>
+    <header style="align-items:center;">
+      <a href="/index.html">Home</a>
+      <a href="/bookmarklets.html">Bookmarklets</a>
+      <a href="/stratagems.html">Stratagems</a>
+      <a href="/settings.html">Settings</a>
+      <a href="/support.html">Support</a>
+      <a id="blank" href="#">Open Blank</a>
+      <a href="/about.html">About</a>
+      
+<!-- profile html file -->
+	    
+      <a href="/profile.html"><img src="img/pfp-icon.jpg" alt="profile" style="margin-left:98vw; margin-top:-20px; width:42px;height:42px; position:absolute;"></a>
+      <a href="/"><img src="img/dashboard.svg" alt="dashboard" style="margin-left:100vw; margin-top:-18px; width:32px;height:32px;  position:absolute;"></a>
+    </header>
+    <main>
+      <h1>Slackerish.</h1>
+      <p id="randomquote">...</p>
+      <div class="samerow">
+        <div class="img-container">
+          <a href="https://patreon.com/selenitecc"><img src="img/Digital-Patreon-Logo_White.png"></a>
+        </div>
+        <div class="img-container">
+          <a href="Games.html"><img src="img/baseline_sports_esports_white_48dp.png"></a>
+        </div>
+        <div class="img-container">
+          <a href="Tv.html"><img src="img/TV.png"></a>
+        </div>
+        <div class="img-container">
+          <a href="https://discord.gg/7jyufnwJNf"><img src="img/discord-mark-white.png"></a>
+        </div>
+      </div>	    
+    </main>
+    
+    <footer class="noscroll">
+      <a href="https://github.com/ublockedslackrr/ublockedslackrr.github.io">Source Code</a>
+      <a id="panicmode">Panic Mode (settings)</a>
+      <a href="/transfer.html">Transfer your data</a>
+      <a href="https://discord.gg/7jyufnwJNf">Discord</a>
+      <a href="/suggest.html">Bugs & suggestions</a>
+      <a href="/social.html">socials</a>
+      <a href="/version.html">Version: <i>v1.o.3 [Beta]</i></a>
+    </footer>
+  </body>
+</html>
